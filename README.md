@@ -1,7 +1,4 @@
-# Data-analysis---project-
-Project Overview
-Dataset: [Link to  the dataset file  ](https://drive.google.com/file/d/1T9Wclf16Ml_q8uyp99hE5DQ6_hE3VJRM/view?usp=drive_link)
-
+# EXPLORATORY-DATA-ANALYSIS
 Objective: The primary objective of this project is to gain insights into the loan application data and understand the patterns and relationships within the dataset.
 
 Project Contents
